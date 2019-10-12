@@ -81,7 +81,7 @@ C
 ## Common cathode LED 
 - Types of LEDs that have multiple colors in one fixture, with one cathode and multiple anodes.
 
-## ## Conductor 
+## Conductor 
 - A material that allows electricity to flow, like a copper wire.
 
 ## Constant 
@@ -119,14 +119,14 @@ D
 - A ratio indicating the amount of time over a certain period that a component is turned on. When using a PWM value of 127 (out of a total of 256), you have a 50% duty cycle.
 
 E
-## ## Electricity 
+## Electricity 
 - A form of energy which we use to power machines and electrical devices.
 
 F
 ## Float 
 - A datatype used to represent a fraction. This entails the use of decimal points for floating point numbers.
 
-## ## ## Function 
+## Function 
 - A block of code that executes a specific task.
 
 G
@@ -140,7 +140,7 @@ G
 - The point of a circuit where there is 0 potential electrical energy. Without a ground, electricity will not have a place to flow in a circuit.
 
 I
-## ## IDE 
+## IDE 
 - Stands for “Integrated Development Environment”. The Arduino IDE for example, is the place where you write software to upload to an Arduino bard.
 
 ## Index 
