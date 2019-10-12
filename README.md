@@ -130,13 +130,13 @@ F
 - A block of code that executes a specific task.
 
 G
-## ## Gate 
+## Gate 
 - The pin of a Field Effect Transistor that allows to create a conducting channel between Drain and Source if correctly driven.
 
 ## Global variable 
 - A named variable that can be accessed anywhere inside your program. It is declared before the setup() function.
 
-## ## ## Ground 
+## Ground 
 - The point of a circuit where there is 0 potential electrical energy. Without a ground, electricity will not have a place to flow in a circuit.
 
 I
