@@ -1,7 +1,7 @@
 ## Welcome to Zukros Websites
 
 
-
+```
 The universe has a beginning,but no end.
 Infinite.
 
@@ -22,6 +22,7 @@ For humans to exceed the speed of light...
 These words are meant for those who dare to defy God's final warning...
 An epigrapgh for their stubborness.
 
+```
 
 ## Accelerometer 
 - A sensor that measures acceleration. In this way it is also possible to detect orientation, or tilt.
