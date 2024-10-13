@@ -1,4 +1,4 @@
-## Welcome to The Unidentified Paradise.
+## Welcome to The Unidentified Paradise
 
 
 ```
@@ -23,6 +23,8 @@ These words are meant for those who dare to defy God's final warning...
 An epigrapgh for their stubborness.
 
 ```
+
+Some Common Definitions :
 
 ## Accelerometer 
 - A sensor that measures acceleration. In this way it is also possible to detect orientation, or tilt.
